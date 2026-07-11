@@ -103,27 +103,16 @@ The projects demonstrate practical JavaScript skills including DOM manipulation,
 
 ## 📷 Screenshots
 
-### Task 1
-![Task 1](screenshots/task1.png)
-
-### Task 2
-![Task 2](screenshots/task2.png)
-
-### Task 3
-![Task 3](screenshots/task3.png)
-
-### Task 4
-![Task 4](screenshots/task4.png)
+![Task 1](./screenshots/task1.png)
+![Task 2](./screenshots/task2.png)
+![Task 3](./screenshots/task3.png)
+![Task 4](./screenshots/task4.png)
 
 ---
 
 ## 🌐 Live Demo
 
 Netlify: https://your-netlify-link.netlify.app
-
-or
-
-Vercel: https://your-vercel-link.vercel.app
 
 ---
 
